@@ -1,0 +1,24 @@
+---
+publish: true
+aliases: Feywild Time Warp
+created: 2026-03-15T01:10:08.852+01:00
+modified: 2026-03-15T01:08:44.098+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses: json5e-note
+---
+
+# Feywild Time Warp
+*Source: Dungeon Master's Guide p. 50* 
+
+**Feywild Time Warp**
+
+| dice: d20 | Result |
+|-----------|--------|
+| 1-2 | Days become minutes |
+| 3-6 | Days become hours |
+| 7-13 | No change |
+| 14-17 | Days become weeks |
+| 18-19 | Days become months |
+| 20 | Days become years |
+^feywild-time-warp

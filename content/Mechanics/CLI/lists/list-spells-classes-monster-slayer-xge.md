@@ -1,0 +1,31 @@
+---
+publish: true
+aliases: Spells for Monster Slayer
+created: 2026-03-15T01:10:08.772+01:00
+modified: 2026-03-15T01:08:44.039+01:00
+tags:
+  - ttrpg-cli/spell/list/subclass/monster-slayer
+cssclasses: json5e-note
+---
+
+# Spells for Monster Slayer
+
+## 1st Level
+
+- [Protection from Evil and Good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md "XPHB") at class level 13
+
+## 2nd Level
+
+- [Zone of Truth](Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB") at class level 13
+
+## 3rd Level
+
+- [Magic Circle](Mechanics/CLI/spells/magic-circle-xphb.md "XPHB") at class level 13
+
+## 4th Level
+
+- [Banishment](Mechanics/CLI/spells/banishment-xphb.md "XPHB") at class level 13
+
+## 5th Level
+
+- [Hold Monster](Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 13

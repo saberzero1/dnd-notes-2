@@ -1,0 +1,21 @@
+---
+publish: true
+aliases: Falling
+created: 2026-03-15T01:10:08.871+01:00
+modified: 2026-03-15T01:08:44.108+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses: json5e-hazard
+---
+
+# Falling
+*Generic Hazard*  
+
+
+A creature that falls takes `1d6` Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of `20d6`. When the creature lands, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition unless it avoids taking any damage from the fall.
+
+A creature that falls into water or another liquid can use its [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to make a DC 15 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+
+## Sources
+
+*Player's Handbook (2024) p. 367*

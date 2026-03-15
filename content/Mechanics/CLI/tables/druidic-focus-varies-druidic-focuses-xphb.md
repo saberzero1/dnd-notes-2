@@ -1,0 +1,21 @@
+---
+publish: true
+aliases: Druidic Focus (Varies); Druidic Focuses
+created: 2026-03-15T01:10:08.851+01:00
+modified: 2026-03-15T01:08:44.097+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses: json5e-note
+---
+
+# Druidic Focus (Varies); Druidic Focuses
+*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+**Druidic Focuses**
+
+| Focus | Weight | Cost |
+|-------|--------|------|
+| [Sprig of mistletoe](Mechanics/CLI/items/sprig-of-mistletoe-xphb.md) | — | 1 GP |
+| [Wooden staff](Mechanics/CLI/items/wooden-staff-xphb.md) (also a [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
+| [Yew wand](Mechanics/CLI/items/yew-wand-xphb.md) | 1 lb. | 10 GP |
+^druidic-focuses

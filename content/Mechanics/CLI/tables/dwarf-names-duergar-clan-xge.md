@@ -1,0 +1,30 @@
+---
+publish: true
+aliases: Dwarf Names – Duergar Clan
+created: 2026-03-15T01:10:08.852+01:00
+modified: 2026-03-15T01:08:44.097+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses: json5e-note
+---
+
+# Dwarf Names – Duergar Clan
+*Source: Xanathar's Guide to Everything p. 176* 
+
+**Dwarf Names – Duergar Clan**
+
+| dice: d12 | Name |
+|-----------|------|
+| 1 | Ashlord |
+| 2 | Battlegore |
+| 3 | Doomfist |
+| 4 | Earthlord |
+| 5 | Firetamer |
+| 6 | Knifemind |
+| 7 | Mindeater |
+| 8 | Necksnapper |
+| 9 | Orehammer |
+| 10 | Runehammer |
+| 11 | Thundermaster |
+| 12 | Underearth |
+^dwarf-names-duergar-clan

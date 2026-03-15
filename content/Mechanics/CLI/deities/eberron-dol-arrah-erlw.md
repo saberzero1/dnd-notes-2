@@ -1,0 +1,29 @@
+---
+publish: true
+aliases: Dol Arrah
+created: 2026-03-15T01:10:08.697+01:00
+modified: 2026-03-15T01:08:43.984+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/erlw
+  - ttrpg-cli/deity/eberron
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/domain/twilight
+  - ttrpg-cli/domain/war
+cssclasses: json5e-deity
+---
+
+# Dol Arrah
+![The Sovereign Host](Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
+
+- **Alignment**: Unaligned
+- **Category**: The Sovereign Host
+- **Domains**: Light, War, Twilight
+- **Pantheon**: Eberron
+- **Province**: Honor, sunlight
+- **Symbol**: Rising sun *or* red dragon
+
+Dol Arrah is the sun that drives away the darkness. She stands for wisdom in war and for those who fight with honor, pursue justice, and make sacrifices for the greater good.
+
+## Sources
+
+*Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 34*
