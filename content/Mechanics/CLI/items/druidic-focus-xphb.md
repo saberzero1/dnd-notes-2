@@ -1,0 +1,24 @@
+---
+publish: true
+aliases: Druidic Focus
+created: 2026-03-15T01:10:08.719+01:00
+modified: 2026-03-15T01:08:43.999+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/none
+cssclasses: json5e-item
+---
+
+# Druidic Focus
+*Spellcasting focus*  
+
+
+
+**Items in this group:**
+
+- [Sprig of mistletoe](Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)
+- [Wooden staff](Mechanics/CLI/items/wooden-staff-xphb.md)
+- [Yew wand](Mechanics/CLI/items/yew-wand-xphb.md)
+
+*Source: Player's Handbook (2024) p. 225*

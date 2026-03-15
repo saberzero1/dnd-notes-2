@@ -1,0 +1,22 @@
+---
+publish: true
+aliases: Iron Pot
+created: 2026-03-15T01:10:08.744+01:00
+modified: 2026-03-15T01:08:44.025+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+cssclasses: json5e-item
+---
+
+# Iron Pot
+*Adventuring gear*  
+
+
+- **Cost**: 2 gp
+- **Weight**: 10.0 lbs.
+
+An Iron Pot holds up to 1 gallon.
+
+*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

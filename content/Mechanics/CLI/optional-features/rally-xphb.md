@@ -1,0 +1,18 @@
+---
+publish: true
+aliases: Rally
+created: 2026-03-15T01:10:08.789+01:00
+modified: 2026-03-15T01:08:44.049+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/optional-feature/mv-b
+cssclasses: json5e-feat
+---
+
+# Rally 
+
+
+As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Superiority Die to bolster the resolve of a companion. Choose an ally of yours within 30 feet of yourself who can see or hear you. That creature gains [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to the Superiority Die roll plus half your Fighter level (round down).
+## Sources
+
+*Player's Handbook (2024) p. 95*
