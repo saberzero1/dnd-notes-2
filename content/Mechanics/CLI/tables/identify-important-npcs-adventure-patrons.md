@@ -1,0 +1,32 @@
+---
+publish: true
+aliases: Identify Important NPCs; Adventure Patrons
+created: 2026-03-15T01:10:08.856+01:00
+modified: 2026-03-15T01:08:44.099+01:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses: json5e-note
+---
+
+# Identify Important NPCs; Adventure Patrons
+*Source: Dungeon Master's Guide p. 74* 
+
+**Adventure Patrons**
+
+| dice: d20 | Patron |
+|-----------|--------|
+| 1-2 | Retired adventurer |
+| 3-4 | Local ruler |
+| 5-6 | Military officer |
+| 7-8 | Temple official |
+| 9-10 | Sage |
+| 11-12 | Respected elder |
+| 13 | Deity or celestial |
+| 14 | Mysterious fey |
+| 15 | Old friend |
+| 16 | Former teacher |
+| 17 | Parent or other family member |
+| 18 | Desperate Commoner |
+| 19 | Embattled merchant |
+| 20 | Villain posing as a patron |
+^adventure-patrons
